@@ -1,4 +1,4 @@
-// Вхідні дані
+// Вхідні дані для прикладів
 const age = 25;
 const isStudent = true;
 const country = 'Germany';
